@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gameoflife.dir/src/main.cpp.o CMakeFiles/gameoflife.dir/src/GameOfLife.cpp.o CMakeFiles/gameoflife.dir/src/UserCommand.cpp.o CMakeFiles/gameoflife.dir/src/AutoCommand.cpp.o CMakeFiles/gameoflife.dir/src/Game.cpp.o CMakeFiles/gameoflife.dir/src/Barrel.cpp.o CMakeFiles/gameoflife.dir/src/Torus.cpp.o -o gameoflife 
